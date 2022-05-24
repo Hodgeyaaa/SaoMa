@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/tip/tip",
+    "pages/index/index",
+    "pages/home/home",
+    "pages/order/order",
+    "pages/myOrder/myOrder"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

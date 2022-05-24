@@ -1,0 +1,63 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wx1b4c6568533bdfa0",
+  "projectname": "notion-frontEnd",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "index",
+          "query": "interval=4000&autoplay=false",
+          "id": 0,
+          "pathName": "pages/index/index"
+        },
+        {
+          "name": "home",
+          "query": "interval=4000&autoplay=false",
+          "id": 1,
+          "pathName": "pages/home/home"
+        },
+        {
+          "name": "order",
+          "query": "interval=4000&autoplay=false",
+          "id": 2,
+          "pathName": "pages/order/order"
+        },
+        {
+          "name": "tip",
+          "query": "interval=4000&autoplay=false",
+          "id": 3,
+          "pathName": "pages/tip/tip"
+        },
+        {
+          "name": "myOrder",
+          "query": "interval=4000&autoplay=false",
+          "id": 4,
+          "pathName": "pages/myOrder/myOrder"
+        }
+      ]
+    }
+  },
+  "cloudfunctionRoot": "cloudfunctions/"
+}

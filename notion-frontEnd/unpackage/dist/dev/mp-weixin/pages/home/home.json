@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "霍奇餐厅",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#f7d45f",
+  "usingComponents": {
+    "cart": "/pages/home/components/shopping-cart",
+    "details": "/pages/home/components/goods-details"
+  }
+}
